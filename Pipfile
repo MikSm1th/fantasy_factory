@@ -8,6 +8,9 @@ pandas = "*"
 ipykernel = "*"
 rpy2 = "*"
 julia = "*"
+requests = "*"
+bs4 = "*"
+pydfs-lineup-optimizer = "*"
 
 [dev-packages]
 
