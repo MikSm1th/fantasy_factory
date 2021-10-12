@@ -11,6 +11,7 @@ julia = "*"
 requests = "*"
 bs4 = "*"
 pydfs-lineup-optimizer = "*"
+sklearn = "*"
 
 [dev-packages]
 
