@@ -12,6 +12,7 @@ requests = "*"
 bs4 = "*"
 pydfs-lineup-optimizer = "*"
 sklearn = "*"
+nameparser = "*"
 
 [dev-packages]
 
