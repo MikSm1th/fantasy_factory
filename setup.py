@@ -3,4 +3,8 @@
 
 from setuptools import setup, find_packages
 
-setup(name='fan_fact', version='1.0', packages=find_packages())
+setup(
+    name='fan_fact', 
+    version='0.1', 
+    packages=find_packages(include=['functions'])
+)
