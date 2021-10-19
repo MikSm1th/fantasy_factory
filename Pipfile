@@ -14,6 +14,8 @@ pydfs-lineup-optimizer = "*"
 sklearn = "*"
 nameparser = "*"
 fan-fact = {editable = true, path = "."}
+selenium = "*"
+requests-html = "*"
 
 [dev-packages]
 
