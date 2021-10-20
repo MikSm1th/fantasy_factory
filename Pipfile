@@ -16,6 +16,7 @@ nameparser = "*"
 fan-fact = {editable = true, path = "."}
 selenium = "*"
 requests-html = "*"
+sympy = "*"
 
 [dev-packages]
 
