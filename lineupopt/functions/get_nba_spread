@@ -1,0 +1,13 @@
+def get_spread_page():
+    url = "https://rotogrinders.com/lineups/nfl"
+    html = requests.get(url).text
+    page = soup(html)
+    return page
+page = get_spread_page()
+
+team_list = page.find_all("span", {"class": "shrt"})
+teams = [i.text for i in team_list]
+odds_list = page.find_all("a", {"href": "/nfl/odds"})
+odds = [i.text for i in odds_list]
+#teams.sort()
+#print(teams)
