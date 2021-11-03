@@ -144,4 +144,4 @@ ff_git_example/
 pdfs/ 
 .python-version
 .Rhistory
-
+.Renviron
