@@ -1,0 +1,65 @@
+MVP - 1.5X Points,AnyFLEX,AnyFLEX,AnyFLEX,AnyFLEX,,Instructions,,,,,,,,,,,,,,,,,
+65214-6498,65214-11612,65214-94453,65214-69531,65214-52922,,1) Create a lineup by inserting any player from this list into their appropriate position columns,,,,,,,,,,,,,,,,,
+65214-6498,65214-11612,65214-25290,65214-69531,65214-6767,,2) You can paste either the Player ID + Name OR ID from their respective columns,,,,,,,,,,,,,,,,,
+65214-6498,65214-11612,65214-25290,65214-69531,65214-90912,,3) Any information to the right of the last position column will be ignored in the upload,,,,,,,,,,,,,,,,,
+65214-69531,65214-11612,65214-94453,65214-52922,65214-6498,,4) Maximum of 250 lineups per upload,,,,,,,,,,,,,,,,,
+65214-6498,65214-11612,65214-41235,65214-69531,65214-90912,,,,,,,,,,,,,,,,,,,
+65214-6498,65214-11612,65214-69531,65214-73687,65214-6767,,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+65214-69531,65214-11612,65214-25290,65214-6767,65214-6498,,65214-6498:Tom Brady,65214-6498,QB,Tom,Tom Brady,Brady,27.2559997558594,5,16500,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-69531,65214-90912,65214-73687,,65214-69531:Jalen Hurts,65214-69531,QB,Jalen,Jalen Hurts,Hurts,25.0399993896484,5,15500,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-69531,65214-11612,65214-25290,65214-90912,65214-6498,,65214-32384:Mike Evans,65214-32384,WR,Mike,Mike Evans,Evans,15.5600006103516,5,13500,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-69531,65214-42142,65214-52922,,65214-55635:Chris Godwin,65214-55635,WR,Chris,Chris Godwin,Godwin,13.4600006103516,5,13000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-64907,65214-69531,65214-52922,,65214-90576:DeVonta Smith,65214-90576,WR,DeVonta,DeVonta Smith,Smith,9.98000030517578,5,12000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-94453,65214-69531,65214-32384,65214-6767,,65214-11612:Antonio Brown,65214-11612,WR,Antonio,Antonio Brown,Brown,15.2749996185303,4,11500,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-94453,65214-69531,65214-90912,65214-32384,,65214-52922:Leonard Fournette,65214-52922,RB,Leonard,Leonard Fournette,Fournette,11.4599998474121,5,11000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-94453,65214-69531,65214-6767,,65214-71845:Miles Sanders,65214-71845,RB,Miles,Miles Sanders,Sanders,8.5,5,10000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-69531,65214-94625,65214-6767,,65214-11460:Rob Gronkowski,65214-11460,TE,Rob,Rob Gronkowski,Gronkowski,16.8000005086263,3,10000,TB@PHI,TB,PHI,O,Ribs,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-25290,65214-41235,65214-69531,,65214-83074:Dallas Goedert,65214-83074,TE,Dallas,Dallas Goedert,Goedert,8.21999969482422,5,9500,TB@PHI,PHI,TB,IR,Illness,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-25290,65214-69531,65214-32384,65214-73687,,65214-6767:Ryan Succop,65214-6767,K,Ryan,Ryan Succop,Succop,8.8,5,9000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-69531,65214-6767,65214-29780,,65214-90912:Kenneth Gainwell,65214-90912,RB,Kenneth,Kenneth Gainwell,Gainwell,8.64000015258789,5,8500,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-94453,65214-69531,65214-90912,,65214-41235:Jake Elliott,65214-41235,K,Jake,Jake Elliott,Elliott,7,5,8000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+65214-6498,65214-11612,65214-69531,65214-94625,65214-90912,,65214-94625:Jalen Reagor,65214-94625,WR,Jalen,Jalen Reagor,Reagor,5.94000015258789,5,7500,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-63591:Ronald Jones II,65214-63591,RB,Ronald,Ronald Jones II,Jones II,3.44000015258789,5,7500,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-25290:Giovani Bernard,65214-25290,RB,Giovani,Giovani Bernard,Bernard,7.72499990463257,4,7000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-73687:Quez Watkins,65214-73687,WR,Quez,Quez Watkins,Watkins,6.64000015258789,5,7000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-29780:Zach Ertz,65214-29780,TE,Zach,Zach Ertz,Ertz,5.8,5,6500,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-61273:Scotty Miller,65214-61273,WR,Scotty,Scotty Miller,Miller,1.04999995231628,2,6500,TB@PHI,TB,PHI,IR,Toe,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-54782:Cameron Brate,65214-54782,TE,Cameron,Cameron Brate,Brate,3.09999990463257,4,6500,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-68712:Tyler Johnson,65214-68712,WR,Tyler,Tyler Johnson,Johnson,2.9,5,6000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-40434:Greg Ward,65214-40434,WR,Greg,Greg Ward,Ward,5.33333333333333,3,6000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-39286:O.J. Howard,65214-39286,TE,O.J.,O.J. Howard,Howard,1.77499997615814,4,6000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-43433:Boston Scott,65214-43433,RB,Boston,Boston Scott,Scott,1.5,1,5500,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-68155:Codey McElroy,65214-68155,TE,Codey,Codey McElroy,McElroy,0.25,2,5500,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-41221:Andre Patton,65214-41221,WR,Andre,Andre Patton,Patton,0,2,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-83083:Justin Watson,65214-83083,WR,Justin,Justin Watson,Watson,2.57999992370605,5,5000,TB@PHI,TB,PHI,NA,Knee,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-64907:JJ Arcega-Whiteside,65214-64907,WR,JJ,JJ Arcega-Whiteside,Arcega-Whiteside,3.7,5,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-69518:T.J. Simmons Jr.,65214-69518,WR,T.J.,T.J. Simmons Jr.,Simmons Jr.,,,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-42142:Jordan Howard,65214-42142,RB,Jordan,Jordan Howard,Howard,3.77500009536743,8,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-64926:Michael Jacquet III,65214-64926,WR,Michael,Michael Jacquet III,Jacquet III,0,1,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-29985:Jaydon Mickens,65214-29985,WR,Jaydon,Jaydon Mickens,Mickens,0,4,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-33702:Ryan Griffin,65214-33702,QB,Ryan,Ryan Griffin,Griffin,,,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-47788:Deon Yelder,65214-47788,TE,Deon,Deon Yelder,Yelder,1.18333331743876,6,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-64175:Hakeem Butler,65214-64175,WR,Hakeem,Hakeem Butler,Butler,0,2,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-79920:Cyril Grayson,65214-79920,WR,Cyril,Cyril Grayson,Grayson,0,2,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-69304:Kyle Trask,65214-69304,QB,Kyle,Kyle Trask,Trask,,,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-6714:Joe Flacco,65214-6714,QB,Joe,Joe Flacco,Flacco,11.5519996643066,5,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-73147:Nick Eubanks,65214-73147,TE,Nick,Nick Eubanks,Eubanks,,,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-92093:Jaelon Darden,65214-92093,WR,Jaelon,Jaelon Darden,Darden,0.5,1,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-30654:Jerell Adams,65214-30654,TE,Jerell,Jerell Adams,Adams,0,1,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-70206:Jason Huntley,65214-70206,RB,Jason,Jason Huntley,Huntley,0.480000019073486,5,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-33472:C.J. Prosise,65214-33472,RB,C.J.,C.J. Prosise,Prosise,2.03999996185303,5,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-86472:John Hightower,65214-86472,WR,John,John Hightower,Hightower,2.37999992370605,10,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-69451:Jack Stoll,65214-69451,TE,Jack,Jack Stoll,Stoll,0,1,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-30800:Jason Croom,65214-30800,TE,Jason,Jason Croom,Croom,6.80000019073486,1,5000,TB@PHI,PHI,TB,IR,Knee,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-130265:John Hurst,65214-130265,WR,John,John Hurst,Hurst,,,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-21980:Alshon Jeffery,65214-21980,WR,Alshon,Alshon Jeffery,Jeffery,2.5625,8,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-130268:Josh Pearson,65214-130268,WR,Josh,Josh Pearson,Pearson,,,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-66402:Jack Driscoll,65214-66402,TE,Jack,Jack Driscoll,Driscoll,0,1,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-64357:Michael Walker,65214-64357,WR,Michael,Michael Walker,Walker,0,2,5000,TB@PHI,PHI,TB,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-72676:Troymaine Pope,65214-72676,RB,Troymaine,Troymaine Pope,Pope,3.95000004768372,4,5000,TB@PHI,TB,PHI,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-61798:Gardner Minshew II,65214-61798,QB,Gardner,Gardner Minshew II,Minshew II,18.3511115180122,9,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-62566:Travis Jonsen,65214-62566,QB,Travis,Travis Jonsen,Jonsen,,,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-63078:Ke'Shawn Vaughn,65214-63078,RB,Ke'Shawn,Ke'Shawn Vaughn,Vaughn,2.98571423121861,7,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-14194:Blaine Gabbert,65214-14194,QB,Blaine,Blaine Gabbert,Gabbert,0.620000004768372,2,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-94453:Darwin Thompson,65214-94453,RB,Darwin,Darwin Thompson,Thompson,5.94000015258789,5,5000,TB@PHI,TB,PHI,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65214-57208:KeeSean Johnson,65214-57208,WR,KeeSean,KeeSean Johnson,Johnson,2.47999992370605,10,5000,TB@PHI,PHI,TB,,,,,,MVP - 1.5X Points/AnyFLEX

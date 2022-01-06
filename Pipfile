@@ -11,6 +11,14 @@ julia = "*"
 requests = "*"
 bs4 = "*"
 pydfs-lineup-optimizer = "*"
+sklearn = "*"
+nameparser = "*"
+fan-fact = {editable = true, path = "."}
+selenium = "*"
+requests-html = "*"
+sympy = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 

@@ -1,0 +1,68 @@
+MVP - 1.5X Points,AnyFLEX,AnyFLEX,AnyFLEX,AnyFLEX,,Instructions,,,,,,,,,,,,,,,,,
+65108-63115,65108-89675,65108-23045,65108-64242,65108-86687,,1) Create a lineup by inserting any player from this list into their appropriate position columns,,,,,,,,,,,,,,,,,
+65108-86687,65108-63115,65108-69213,65108-63791,65108-53390,,2) You can paste either the Player ID + Name OR ID from their respective columns,,,,,,,,,,,,,,,,,
+65108-89675,65108-34331,65108-52436,65108-24641,65108-60977,,3) Any information to the right of the last position column will be ignored in the upload,,,,,,,,,,,,,,,,,
+65108-63115,65108-23045,65108-86687,65108-69213,65108-53390,,4) Maximum of 250 lineups per upload,,,,,,,,,,,,,,,,,
+65108-86687,65108-89675,65108-64242,65108-63115,65108-60977,,,,,,,,,,,,,,,,,,,
+65108-23045,65108-34331,65108-52436,65108-63791,65108-24641,,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+65108-63115,65108-89675,65108-23045,65108-86687,65108-24641,,65108-63115:Lamar Jackson,65108-63115,QB,Lamar,Lamar Jackson,Jackson,22.9950008392334,4,17000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-86687,65108-63115,65108-63791,65108-60977,65108-53390,,65108-70324:Carson Wentz,65108-70324,QB,Carson,Carson Wentz,Wentz,15.6499996185303,4,14000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-63115,65108-23045,65108-86687,65108-60977,65108-53390,,65108-86687:Marquise Brown,65108-86687,WR,Marquise,Marquise Brown,Brown,15.1499996185303,4,13500,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-86687,65108-89675,65108-64242,65108-63115,65108-69213,,65108-89675:Jonathan Taylor,65108-89675,RB,Jonathan,Jonathan Taylor,Taylor,11.75,4,13000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-23045,65108-64242,65108-52436,65108-69213,65108-63791,,65108-52436:Mark Andrews,65108-52436,TE,Mark,Mark Andrews,Andrews,8.57499980926514,4,12000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-63115,65108-23045,65108-86687,65108-63791,65108-53390,,65108-69213:Michael Pittman Jr.,65108-69213,WR,Michael,Michael Pittman Jr.,Pittman Jr.,9.97500038146973,4,11000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-86687,65108-89675,65108-64242,65108-63115,65108-24641,,65108-34331:Latavius Murray,65108-34331,RB,Latavius,Latavius Murray,Murray,8.27499961853027,4,10000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-63115,65108-23045,65108-86687,65108-69213,65108-63791,,65108-60977:Ty'Son Williams,65108-60977,RB,Ty'Son,Ty'Son Williams,Williams,9.79999987284342,3,10000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-86687,65108-89675,65108-64242,65108-63115,65108-53390,,65108-53390:Zach Pascal,65108-53390,WR,Zach,Zach Pascal,Pascal,10.2749996185303,4,9500,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-23045,65108-52436,65108-69213,65108-24641,65108-60977,,65108-23045:Justin Tucker,65108-23045,K,Justin,Justin Tucker,Tucker,12,4,9000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-63115,65108-23045,65108-64242,65108-86687,65108-53390,,65108-63791:Rodrigo Blankenship,65108-63791,K,Rodrigo,Rodrigo Blankenship,Blankenship,9.25,4,8500,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-86687,65108-89675,65108-63115,65108-63791,65108-24641,,65108-63625:Nyheim Hines,65108-63625,RB,Nyheim,Nyheim Hines,Hines,7.59999990463257,4,8000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+65108-63115,65108-23045,65108-86687,65108-63791,65108-60977,,65108-22031:T.Y. Hilton,65108-22031,WR,T.Y.,T.Y. Hilton,Hilton,8.77499961853027,16,8000,IND@BAL,IND,BAL,IR,Neck,,,,MVP - 1.5X Points/AnyFLEX
+65108-86687,65108-64242,65108-63115,65108-69213,65108-53390,,65108-24641:Sammy Watkins,65108-24641,WR,Sammy,Sammy Watkins,Watkins,8.42500019073486,4,7500,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-39859:Jack Doyle,65108-39859,TE,Jack,Jack Doyle,Doyle,4.72499990463257,4,7000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-24533:Mo Alie-Cox,65108-24533,TE,Mo,Mo Alie-Cox,Alie-Cox,5.59999990463257,4,7000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-57909:Marlon Mack,65108-57909,RB,Marlon,Marlon Mack,Mack,2.20000004768372,2,6500,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-56262:Parris Campbell,65108-56262,WR,Parris,Parris Campbell,Campbell,2.66666666666667,3,6500,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-85845:Rashod Bateman,65108-85845,WR,Rashod,Rashod Bateman,Bateman,,,6500,IND@BAL,BAL,IND,IR,Groin,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-63186:James Proche,65108-63186,WR,James,James Proche,Proche,6.65000009536743,2,6000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-71032:Devin Duvernay,65108-71032,WR,Devin,Devin Duvernay,Duvernay,5.22499990463257,4,6000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-28181:Le'Veon Bell,65108-28181,RB,Le'Veon,Le'Veon Bell,Bell,1.10000002384186,1,5500,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-63907:Josh Oliver,65108-63907,TE,Josh,Josh Oliver,Oliver,0.625,4,5500,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-149710:Mike Strachan,65108-149710,WR,Mike,Mike Strachan,Strachan,1.79999995231628,2,5500,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-24920:Devonta Freeman,65108-24920,RB,Devonta,Devonta Freeman,Freeman,1.36666663487752,3,5500,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-62981:Eli Wolf,65108-62981,TE,Eli,Eli Wolf,Wolf,0,1,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-69383:Dezmon Patmon,65108-69383,WR,Dezmon,Dezmon Patmon,Patmon,0,1,5000,IND@BAL,IND,BAL,IR,Foot,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-65798:Siaosi Mariner,65108-65798,WR,Siaosi,Siaosi Mariner,Mariner,,,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-41867:Jordan Wilkins,65108-41867,RB,Jordan,Jordan Wilkins,Wilkins,0,1,5000,IND@BAL,IND,BAL,O,Illness,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-72718:Benny LeMay,65108-72718,RB,Benny,Benny LeMay,LeMay,0,1,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-68890:Devin Gray,65108-68890,WR,Devin,Devin Gray,Gray,0,1,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-130334:Jalen Morton,65108-130334,QB,Jalen,Jalen Morton,Morton,,,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-70051:Tyler Huntley,65108-70051,QB,Tyler,Tyler Huntley,Huntley,2.125,4,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-130345:Michael Dereus,65108-130345,WR,Michael,Michael Dereus,Dereus,0,1,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-89384:DeMichael Harris,65108-89384,WR,DeMichael,DeMichael Harris,Harris,2.91666666666667,6,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-80299:Patrick Ricard,65108-80299,RB,Patrick,Patrick Ricard,Ricard,1.19999996821086,3,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-62510:Nick Boyle,65108-62510,TE,Nick,Nick Boyle,Boyle,3.36666658189562,9,5000,IND@BAL,BAL,IND,IR,Knee - mcl,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-130350:Jaylon Moore,65108-130350,WR,Jaylon,Jaylon Moore,Moore,0,1,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-64827:Miles Boykin,65108-64827,WR,Miles,Miles Boykin,Boykin,4.23999989827474,15,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-32957:Eric Tomlinson,65108-32957,TE,Eric,Eric Tomlinson,Tomlinson,0,2,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-63565:Jake Breeland,65108-63565,TE,Jake,Jake Breeland,Breeland,0,1,5000,IND@BAL,BAL,IND,Q,Knee - acl,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-104012:Ashton Dulin,65108-104012,WR,Ashton,Ashton Dulin,Dulin,1,3,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-69333:Jacob Eason,65108-69333,QB,Jacob,Jacob Eason,Eason,0,1,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-63061:Gary Jennings,65108-63061,WR,Gary,Gary Jennings,Jennings,0,1,5000,IND@BAL,IND,BAL,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-62042:Deon Cain,65108-62042,WR,Deon,Deon Cain,Cain,0,1,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-87515:Tylan Wallace,65108-87515,WR,Tylan,Tylan Wallace,Wallace,,,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-29915:Brett Hundley,65108-29915,QB,Brett,Brett Hundley,Hundley,0,2,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-64603:Farrod Green,65108-64603,TE,Farrod,Farrod Green,Green,0,1,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-71386:Jordan Thomas,65108-71386,TE,Jordan,Jordan Thomas,Thomas,1.70000004768372,4,5000,IND@BAL,IND,BAL,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-73180:Binjimen Victor,65108-73180,WR,Binjimen,Binjimen Victor,Victor,0,1,5000,IND@BAL,BAL,IND,Q,Head,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-56286:Trace McSorley,65108-56286,QB,Trace,Trace McSorley,McSorley,3.10000006357829,3,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-64222:Jordan Glasgow,65108-64222,RB,Jordan,Jordan Glasgow,Glasgow,0,2,5000,IND@BAL,IND,BAL,IR,Concussion,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-71521:Justice Hill,65108-71521,RB,Justice,Justice Hill,Hill,1.3125,8,5000,IND@BAL,BAL,IND,IR,Achilles,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-71143:Kylen Granson,65108-71143,TE,Kylen,Kylen Granson,Granson,0.800000011920929,1,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-40167:Gus Edwards,65108-40167,RB,Gus,Gus Edwards,Edwards,7.31666649712457,18,5000,IND@BAL,BAL,IND,IR,Knee - acl,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-87787:J.K. Dobbins,65108-87787,RB,J.K.,J.K. Dobbins,Dobbins,10.6176470588235,17,5000,IND@BAL,BAL,IND,IR,Knee - acl,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-149742:Nate McCrary,65108-149742,RB,Nate,Nate McCrary,McCrary,,,5000,IND@BAL,BAL,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-64242:Keke Coutee,65108-64242,WR,Keke,Keke Coutee,Coutee,8.8125,8,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-71414:Quartney Davis,65108-71414,WR,Quartney,Quartney Davis,Davis,,,5000,IND@BAL,IND,BAL,IR,Shoulder,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-61693:Danny Pinter,65108-61693,TE,Danny,Danny Pinter,Pinter,0,1,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65108-69884:Darius Anderson,65108-69884,RB,Darius,Darius Anderson,Anderson,0,1,5000,IND@BAL,IND,BAL,,,,,,MVP - 1.5X Points/AnyFLEX

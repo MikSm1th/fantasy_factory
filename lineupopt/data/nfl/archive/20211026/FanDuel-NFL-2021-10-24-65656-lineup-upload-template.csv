@@ -1,0 +1,67 @@
+MVP - 1.5X Points,AnyFLEX,AnyFLEX,AnyFLEX,AnyFLEX,,Instructions,,,,,,,,,,,,,,,,,
+65656-56018,65656-70324,65656-39859,65656-89675,65656-69213,,1) Create a lineup by inserting any player from this list into their appropriate position columns,,,,,,,,,,,,,,,,,
+65656-70324,65656-56018,65656-54604,65656-86646,65656-53390,,2) You can paste either the Player ID + Name OR ID from their respective columns,,,,,,,,,,,,,,,,,
+65656-89675,65656-92413,65656-56378,65656-24533,65656-63625,,3) Any information to the right of the last position column will be ignored in the upload,,,,,,,,,,,,,,,,,
+65656-70324,65656-56018,65656-39859,65656-89675,65656-69213,,4) Maximum of 250 lineups per upload,,,,,,,,,,,,,,,,,
+65656-56018,65656-70324,65656-54604,65656-86646,65656-53390,,,,,,,,,,,,,,,,,,,
+65656-89675,65656-70324,65656-56018,65656-39859,65656-69213,,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+65656-56018,65656-54604,65656-89675,65656-86646,65656-53390,,65656-89675:Jonathan Taylor,65656-89675,RB,Jonathan,Jonathan Taylor,Taylor,17.6166661580404,6,15000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+65656-56018,65656-70324,65656-65724,65656-89675,65656-69213,,65656-149696:Trey Lance,65656-149696,QB,Trey,Trey Lance,Lance,11.6149997711182,4,14500,IND@SF,SF,IND,O,Knee,,,,MVP - 1.5X Points/AnyFLEX
+65656-70324,65656-56018,65656-39859,65656-54604,65656-53390,,65656-54604:Jimmy Garoppolo,65656-54604,QB,Jimmy,Jimmy Garoppolo,Garoppolo,14.8999996185303,4,14500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+65656-56018,65656-70324,65656-89675,65656-39428,65656-69213,,65656-70324:Carson Wentz,65656-70324,QB,Carson,Carson Wentz,Wentz,17.033332824707,6,14000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-56018:Deebo Samuel,65656-56018,WR,Deebo,Deebo Samuel,Samuel,18.9,5,13000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-69213:Michael Pittman Jr.,65656-69213,WR,Michael,Michael Pittman Jr.,Pittman Jr.,10.4333330790202,6,12000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-92413:Eli Mitchell,65656-92413,RB,Eli,Eli Mitchell,Mitchell,9.96666653951009,3,11000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-22031:T.Y. Hilton,65656-22031,WR,T.Y.,T.Y. Hilton,Hilton,10,1,10500,IND@SF,IND,SF,O,Quadriceps,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-53390:Zach Pascal,65656-53390,WR,Zach,Zach Pascal,Pascal,7.90000025431315,6,10000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-39793:George Kittle,65656-39793,TE,George,George Kittle,Kittle,8.27499961853027,4,10000,IND@SF,SF,IND,IR,Calf,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-56378:Joey Slye,65656-56378,K,Joey,Joey Slye,Slye,6.75,4,9500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-6910:Robbie Gould,65656-6910,K,Robbie,Robbie Gould,Gould,8,3,9500,IND@SF,SF,IND,IR,Groin,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-63791:Rodrigo Blankenship,65656-63791,K,Rodrigo,Rodrigo Blankenship,Blankenship,9,5,9000,IND@SF,IND,SF,IR,Hip,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-55145:Michael Badgley,65656-55145,K,Michael,Michael Badgley,Badgley,4.5,2,9000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-85798:Brandon Aiyuk,65656-85798,WR,Brandon,Brandon Aiyuk,Aiyuk,3.95999984741211,5,8500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-63625:Nyheim Hines,65656-63625,RB,Nyheim,Nyheim Hines,Hines,5.81666692097982,6,8000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-24533:Mo Alie-Cox,65656-24533,TE,Mo,Mo Alie-Cox,Alie-Cox,6.36666679382324,6,7500,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-86646:Trey Sermon,65656-86646,RB,Trey,Trey Sermon,Sermon,5.19999980926514,4,7500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-57909:Marlon Mack,65656-57909,RB,Marlon,Marlon Mack,Mack,2.875,4,7000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-83138:Ross Dwelley,65656-83138,TE,Ross,Ross Dwelley,Dwelley,6.05000019073486,2,7000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-22018:Mohamed Sanu,65656-22018,WR,Mohamed,Mohamed Sanu,Sanu,2.93999996185303,5,6500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-56262:Parris Campbell,65656-56262,WR,Parris,Parris Campbell,Campbell,5.44000015258789,5,6500,IND@SF,IND,SF,IR,Foot,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-83091:Trenton Cannon,65656-83091,RB,Trenton,Trenton Cannon,Cannon,-0.400000005960465,4,6000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-39859:Jack Doyle,65656-39859,TE,Jack,Jack Doyle,Doyle,3.29999987284342,6,6000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-65724:JaMycal Hasty,65656-65724,RB,JaMycal,JaMycal Hasty,Hasty,8.10000038146973,2,6000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-39428:Kyle Juszczyk,65656-39428,RB,Kyle,Kyle Juszczyk,Juszczyk,5.62000007629395,5,5500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-61610:Jacques Patrick,65656-61610,RB,Jacques,Jacques Patrick,Patrick,1.20000004768372,1,5500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-63806:Kerryon Johnson,65656-63806,RB,Kerryon,Kerryon Johnson,Johnson,4.44999994550432,14,5500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-56059:Trent Sherfield,65656-56059,WR,Trent,Trent Sherfield,Sherfield,3.56666660308838,3,5500,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-55552:Jeff Wilson Jr.,65656-55552,RB,Jeff,Jeff Wilson Jr.,Wilson Jr.,11.3166669209798,12,5000,IND@SF,SF,IND,NA,Knee - meniscus,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-29956:Joshua Perkins,65656-29956,TE,Joshua,Joshua Perkins,Perkins,0,1,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-69383:Dezmon Patmon,65656-69383,WR,Dezmon,Dezmon Patmon,Patmon,0,1,5000,IND@SF,IND,SF,IR,Foot,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-41867:Jordan Wilkins,65656-41867,RB,Jordan,Jordan Wilkins,Wilkins,0,1,5000,IND@SF,IND,SF,O,Illness,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-41997:River Cracraft,65656-41997,WR,River,River Cracraft,Cracraft,1.41999998092651,5,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-72718:Benny LeMay,65656-72718,RB,Benny,Benny LeMay,LeMay,0,1,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-22035:Travis Benjamin,65656-22035,WR,Travis,Travis Benjamin,Benjamin,0,1,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-27801:Nate Sudfeld,65656-27801,QB,Nate,Nate Sudfeld,Sudfeld,-0.259999990463257,2,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-61593:Jauan Jennings,65656-61593,WR,Jauan,Jauan Jennings,Jennings,5.30000019073486,2,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-130334:Jalen Morton,65656-130334,QB,Jalen,Jalen Morton,Morton,,,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-89384:DeMichael Harris,65656-89384,WR,DeMichael,DeMichael Harris,Harris,2.91666666666667,6,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-83117:Tanner Hudson,65656-83117,TE,Tanner,Tanner Hudson,Hudson,1.11999998092651,5,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-52405:Jalen Hurd,65656-52405,WR,Jalen,Jalen Hurd,Hurd,0,1,5000,IND@SF,SF,IND,IR,Knee,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-71351:Charlie Woerner,65656-71351,TE,Charlie,Charlie Woerner,Woerner,0.899999976158142,1,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-63550:Isaiah Zuber,65656-63550,WR,Isaiah,Isaiah Zuber,Zuber,1.5,4,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-28744:Raheem Mostert,65656-28744,RB,Raheem,Raheem Mostert,Mostert,2,1,5000,IND@SF,SF,IND,IR,Knee - meniscus,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-149710:Mike Strachan,65656-149710,WR,Mike,Mike Strachan,Strachan,1.79999995231628,2,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-104012:Ashton Dulin,65656-104012,WR,Ashton,Ashton Dulin,Dulin,1.3,5,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-63061:Gary Jennings,65656-63061,WR,Gary,Gary Jennings,Jennings,0,1,5000,IND@SF,IND,SF,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-29915:Brett Hundley,65656-29915,QB,Brett,Brett Hundley,Hundley,0,2,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-64603:Farrod Green,65656-64603,TE,Farrod,Farrod Green,Green,0,1,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-71386:Jordan Thomas,65656-71386,TE,Jordan,Jordan Thomas,Thomas,1.70000004768372,4,5000,IND@SF,IND,SF,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-64222:Jordan Glasgow,65656-64222,RB,Jordan,Jordan Glasgow,Glasgow,0,2,5000,IND@SF,IND,SF,IR,Concussion,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-71143:Kylen Granson,65656-71143,TE,Kylen,Kylen Granson,Granson,1.85000002384186,2,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-64242:Keke Coutee,65656-64242,WR,Keke,Keke Coutee,Coutee,8.8125,8,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-30837:Jordan Matthews,65656-30837,WR,Jordan,Jordan Matthews,Matthews,,,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-71414:Quartney Davis,65656-71414,WR,Quartney,Quartney Davis,Davis,,,5000,IND@SF,IND,SF,IR,Shoulder,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-53498:Richie James,65656-53498,WR,Richie,Richie James,James,5.29000015258789,10,5000,IND@SF,SF,IND,IR,Knee,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-28157:Bennie Fowler III,65656-28157,WR,Bennie,Bennie Fowler III,Fowler III,2.09999990463257,1,5000,IND@SF,SF,IND,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-61693:Danny Pinter,65656-61693,TE,Danny,Danny Pinter,Pinter,0,1,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
+,,,,,,65656-69884:Darius Anderson,65656-69884,RB,Darius,Darius Anderson,Anderson,0,1,5000,IND@SF,IND,SF,,,,,,MVP - 1.5X Points/AnyFLEX
