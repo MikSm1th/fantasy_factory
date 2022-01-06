@@ -17,8 +17,11 @@ fan-fact = {editable = true, path = "."}
 selenium = "*"
 requests-html = "*"
 sympy = "*"
+<<<<<<< HEAD
 matplotlib = "*"
 seaborn = "*"
+=======
+>>>>>>> 008edb4f8bdc63d53891c0dc8a00a50007ab590f
 
 [dev-packages]
 

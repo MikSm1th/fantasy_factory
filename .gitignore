@@ -145,5 +145,8 @@ pdfs/
 .python-version
 .Rhistory
 .Renviron
+<<<<<<< HEAD
 
 nbaR/*.csv
+=======
+>>>>>>> 008edb4f8bdc63d53891c0dc8a00a50007ab590f
